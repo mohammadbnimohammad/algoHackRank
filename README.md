@@ -1,2 +1,3 @@
 # algoHackRank
-# this repo to solution some HackerRank problems 
+
+ this my repo to solve some HackerRank problems 
